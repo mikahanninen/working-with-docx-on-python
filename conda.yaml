@@ -15,3 +15,4 @@ dependencies:
     # https://pypi.org/
     - rpaframework==9.5.0 # https://rpaframework.org/releasenotes.html
     - python-docx==0.8.11
+    - oletools==0.56.2
